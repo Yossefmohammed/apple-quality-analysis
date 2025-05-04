@@ -48,7 +48,7 @@ The dataset contains 4000 entries with the following features:
 
 2. Clone this repository
 
-3. Open the `apple-quality-analysis.ipynb` notebook in Jupyter
+3. Open the `https://github.com/Yossefmohammed/apple-quality-analysis/blob/main/apple-quality-analysis.ipynb` notebook in Jupyter
 
 4. Run the cells sequentially to reproduce the analysis
 
@@ -56,6 +56,13 @@ The dataset contains 4000 entries with the following features:
 - Python 3.10.13
 - Jupyter Notebook
 - Required Python packages as listed in the notebook
+
+
+## Contact Information
+For any questions or inquiries, please contact:
+- Email: ypssefmohammdahmed@gmail.com
+- Phone: 01126078938
+
 
 ## Data Source
 The dataset was obtained from Kaggle and contains measurements of various apple characteristics.
